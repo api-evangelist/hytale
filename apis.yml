@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://hytale-api.com/
 common:
+  - type: DomainSecurity
+    url: security/hytale-domain-security.yml
   - type: Website
     url: https://hytale-api.com/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://hytale.com/news
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
