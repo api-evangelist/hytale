@@ -40,7 +40,8 @@ apis:
   - name: Hytale
     description: "Hytale blog posts and jobs"
     humanURL: https://hytale-api.com/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
